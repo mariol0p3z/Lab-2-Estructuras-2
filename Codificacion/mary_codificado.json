@@ -1,0 +1,56 @@
+[
+    {
+        "name": "mary",
+        "dpi": "5138612437201",
+        "datebirth": "1999-03-05T18:40:33.939Z",
+        "address": "westminster",
+        "companies": {
+            "Mayer, Block and Gaylord": "1010010",
+            "Vandervort - Weimann": "1100110",
+            "Stehr - Langosh": "100100",
+            "Mante - Lesch": "1000011",
+            "Cassin, Kreiger and McKenzie": "110100001",
+            "Moore and Sons": "101100",
+            "Ziemann and Sons": "1011110",
+            "Rowe LLC": "101111",
+            "Lakin - Altenwerth": "1111010",
+            "Nolan LLC": "0111001",
+            "Parisian, Gleichner and Collins": "0010011",
+            "Daugherty Group": "00011010",
+            "Connelly - Swaniawski": "0101111",
+            "Witting - Becker": "110101001",
+            "Schuster, Olson and Doyle": "110111111",
+            "Upton LLC": "110111001",
+            "Gaylord, Schiller and Murray": "1011000",
+            "Schuppe, D'Amore and Hilpert": "00010011",
+            "Marvin - Legros": "00011110",
+            "Tremblay Inc": "0100101",
+            "Welch - Shields": "00010101",
+            "Jacobs - Farrell": "1001100",
+            "Dickinson - Nikolaus": "0011011",
+            "Swift - Volkman": "0110010",
+            "Wunsch LLC": "00011101",
+            "Corkery - Rosenbaum": "101011",
+            "Emard LLC": "00010101",
+            "Jenkins - Douglas": "111110110",
+            "Conn - Huels": "00010001",
+            "Schiller, Fadel and Gislason": "1001001"
+        }
+    },
+    {
+        "name": "mary",
+        "dpi": "8349062986084",
+        "datebirth": "1962-10-29T01:16:12.424Z",
+        "address": "west covina",
+        "companies": {
+            "Daugherty Group": "00011011",
+            "Connelly - Swaniawski": "110001111",
+            "Rowe LLC": "110100110",
+            "Parisian, Gleichner and Collins": "11110111",
+            "Tremblay Inc": "0101110",
+            "Witting - Becker": "110101110",
+            "Parker Inc": "11100011",
+            "Block and Sons": "11111111"
+        }
+    }
+]
